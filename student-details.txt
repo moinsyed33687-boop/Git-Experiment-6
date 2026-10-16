@@ -1,0 +1,4 @@
+Name: smud
+USN:1GC25AIO46
+Section: D
+Year: 2nd Year
